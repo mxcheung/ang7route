@@ -1,5 +1,12 @@
 # Ang7route
 
+
+[![travis](https://travis-ci.org/mxcheung/ang7route.svg?branch=master
+)](https://travis-ci.org/mxcheung/ang7route.svg?branch=master)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
@@ -27,3 +34,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 [Angular 7 Routing And Sub Routing ](https://appdividend.com/2018/12/14/angular-7-routing-and-sub-routing-tutorial-with-example/)
+
+[Angular 7 and Travis CI ](https://blog.angularindepth.com/the-angular-devops-series-ct-ci-with-travis-ci-and-github-pages-3c02664f078)
